@@ -1,0 +1,139 @@
+body {
+    background-color: white;
+	height: 900px;
+	width: 900px;
+	border-style: groove;
+}
+
+#header{
+	background-color: lightgray;
+	height: 60px;
+	width: 800px;
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	border-style: ridge;
+}
+#navHeader{
+	background-color: lightgray;
+	margin-top: 12px;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 5px;
+	border-style: groove;
+}
+#sectionLeft {
+	background-color: lightgray;
+    margin-left: 50px;
+	margin-right: 50px;
+	margin-bottom: 30px;
+	height: 500px;
+	width: 240px;
+	float:left;
+	display:inline-block;
+	border-style: ridge;
+}
+#navSectionLeft{
+	background-color: lightgray;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 10px;
+	height: 250px;
+	border-style: groove;
+}
+#asideSectionLeft{
+	background-color: gray;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 20px;
+	height: 150px;
+	border-style: groove;
+}
+
+#sectionRight {
+	background-color: lightgray;   
+	margin-bottom: 30px;	
+	margin-right:50px;
+	height: 500px;
+	width: 489px;
+	float: right;
+	border-style: ridge;
+}
+
+#headerSectionRight{
+	background-color: lightgray;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 10px;
+	height: 30px;
+	border-style: groove;
+}
+
+.article{
+	background-color: lightgray;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 10px;
+	height: 170px;
+	border-style: groove;
+}
+.header{
+	background-color: gray;
+	margin-left: 20px;
+	margin-right: 20px;
+	height: 30px;
+	border-style: groove;
+}
+.p{
+	background-color: gray;
+	text-align: center;
+	margin-left: 20px;
+	margin-right: 20px;	
+	height: 40px;
+	clear:both;
+	border-style: groove;
+}
+#asideUp{
+	background-color: gray;
+	margin-right: 20px;
+	margin-top: 20px;
+	
+	float: right;
+	width: 150px;
+}
+#divUp{
+	background-color: gray;
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	float: left;
+	width: 240px;
+	
+}
+#divDown{
+	background-color: gray;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+	
+#footerSection{
+	background-color: lightgray;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 10px;
+	height: 45px;
+	border-style: groove;
+}
+
+#footer{
+	background-color: lightgray;
+	margin-left: 50px;
+	margin-right: 50px;
+	height: 50px;
+	clear: both;
+	width: 800px;
+	border-style: groove;
+}
